@@ -1,0 +1,32 @@
+Hilo
+
+Inputs - Higher or lower? [h/l]
+         "Play again?
+Outputs -   "The card is {card value}"
+            "The next card is {card value}"
+            "Your score"
+
+-   -   -   -   -   -
+
+Classes?
+
+is a (later on)
+has a (attribute, variables)
+does a (methods, functions)
+
+Objects/Classes
+Game
+ 
+ has a score/total_points
+ has/knows scoring system (if wrong guess, -75 points, if right guess +100)
+
+ asks the user to guess (higher or lower)
+ draws a card to compare
+ compares the cards
+ awards points
+
+Card
+ has a value (1 - 13)
+
+ chooses a value between 1 and 13
+
