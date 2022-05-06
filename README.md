@@ -1,5 +1,6 @@
 CSE210 Week 3 Team F
-Team Members: Hailey, John, Matt, Paulo
+Team Members: Ashley, Hailey, John, Matt, Paulo, Ethan
+Team Members in attendance 5/5: Ashley, Hailey, John (Matt had a work meeting)
 
 
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
