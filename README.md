@@ -1,9 +1,10 @@
 CSE210 Week 3 Team F
 Team Members: Hailey, John, Matt, Paulo
 
+
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
 
-Rules
+Rules:
 Hilo is played according to the following rules:
 
   The player starts the game with 300 points.
