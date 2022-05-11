@@ -1,5 +1,5 @@
 # Team Members
-# Ashley DeMott, Hailey Phipps, John Lydiksen
+# Ashley DeMott, Hailey Phipps, John Lydiksen, Matt Rucker
 
 
 import random
