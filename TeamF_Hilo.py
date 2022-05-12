@@ -1,11 +1,10 @@
 # Team Members
-<<<<<<< HEAD
+
 # Ashley DeMott, Hailey Phipps, John Lydiksen
 # 
 
 # This is a quick comment by John Lydiksen, showing that my system is set up to do pushes, pulls and commits.
 
-=======
 # Ashley DeMott, Hailey Phipps, John Lydiksen, Matt Rucker
 
 
@@ -101,4 +100,3 @@ class Person():
 
 if __name__ == "__main__":
     main()
->>>>>>> 7342a0acb640840e9f1e04f87058fb4b21d67e13
