@@ -1,0 +1,26 @@
+Add comments to clarify code
+Remove example code for Person (can move to another code file)
+
+Extra:
+    Enhanced input validation.
+    Enhanced game play and game over messages.
+    Enhanced game display, e.g. card suits (Ace, 2, 3, ..., 9, 10, Jack, Queen, King)
+    Larger value range (13 --> 50)
+    Bonus points for guessing the actual card?
+
+- - - - -
+Due Saturday:
+
+Refer to the "DesigningHilo.txt" file for a written version of how the code was organized,
+or the "TeamF_Hilo.py" program for how the code was organized literally
+
+Write a short answer to the following question:
+    How did you apply abstraction in your program's design?
+
+Remember to illustrate your answer using examples from design materials that you personally contributed or directly collaborated on.
+
+Meets Expectations:
+    Establishes a connection between abstraction and program design choices.
+    Provides examples from notes, diagrams or other design materials. 
+    Identifies personal contributions to the program design.
+    Is written in paragraph form and is at least 100 words long.
