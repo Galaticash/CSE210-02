@@ -37,7 +37,7 @@ class Card():
         self.value = 0
     
     def change_value(self):
-        self.value = random.randint(1, 50)
+        self.value = random.randint(1, 13)
 
 class Game():
     
